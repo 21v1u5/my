@@ -1,19 +1,32 @@
-# my
+#   Uma breve explicação sobre a pessoa que vós fala
 
-estudei matemática bacharel por um tempo, nao temrinei porém fiz algumas cadeiras interessantes, como:
-  
-  - algebra lienar 1
-  - geometria plana
-  - geometria espacial
-  - fundamentos da matemática
-  - calculo vetorial 
-  - desenho geometrico e geometria analitica
-  - introduçao a computaçao 
-  - estatistica aplicada
+Larguei a universidade no 4° peíodo, de matemática bacharel. Porém fiz algumas cadeiras interessantes, como:  
+  - Álgebra lienar 1;
+  - Geometria plana;
+  - Geometria espacial;
+  - Fundamentos da matemática;
+  - Cálculo vetorial e geometria analítica;
+  - Desenho geometrico e geometria descritiva;
+  - Introdução a computação;
+  - Estatística aplicada;
+    
+  Conteúdos de extrema importância para máximizar a eficiência de algoritmos. Se você precisa de alguém que vai além do código superficial e entende a matemática que move a tecnologia, é comigo mesmo! 📊🔍
 
-atualmente estudo engenharia de software, tenho experiencia em:
 
-  - java
-  - js & html & css
-  - python
-  - C
+Atualmente, estou cursando engenharia de software, tenho experiência em:
+  - Linux internals;
+  - redes e infraestrutura; (Nmap e wireshark para análise de pacotes)
+  - git & github;
+  - java;
+  - javascript & html & css;
+  - python;
+  - Rust;
+
+    
+Tenho interesse nas seguintes áreas:
+  - Segurança de dados;
+  - Segurança de redes:
+  - Desenvolvimento de software;
+  - Programação;
+  - Análise de dados;
+  - Hardawre ou robótica.
