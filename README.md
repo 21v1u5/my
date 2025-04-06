@@ -13,20 +13,24 @@ Larguei a universidade no 4° peíodo, de matemática bacharel. Porém fiz algum
   Conteúdos de extrema importância para máximizar a eficiência de algoritmos. Se você precisa de alguém que vai além do código superficial e entende a matemática que move a tecnologia, é comigo mesmo! 📊🔍
 
 
-Atualmente, estou cursando engenharia de software, tenho experiência em:
+Atualmente, estou cursando engenharia de software, tenho uma base sólida em:
   - Linux internals;
   - redes e infraestrutura; (Nmap e wireshark para análise de pacotes)
   - git & github;
-  - java;
-  - javascript & html & css;
-  - python;
-  - Rust;
+  - dockers;
+  - mySQL;
 
+
+linguagens e tecnologias do meu dia a dia:
+  - java.      (spring boot, android studio, postman)
+  - javascript (react, HTML5, CSS3)
+  - rust       (plataformaIO, firebase)
     
+
 Tenho interesse nas seguintes áreas:
   - Segurança de dados;
-  - Segurança de redes:
-  - Desenvolvimento de software;
+  - aplicação web;
+  - aplciaco mobile;
   - Programação;
   - Análise de dados;
-  - Hardawre ou robótica.
+  - Hardawre ou dev de sistemas embarcados.
