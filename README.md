@@ -22,15 +22,14 @@ Atualmente, estou cursando engenharia de software, tenho uma base sólida em:
 
 
 linguagens e tecnologias do meu dia a dia:
-  - java.      (spring boot, android studio, postman)
+  - Java       (spring boot, android studio, postman)
   - javascript (react, HTML5, CSS3)
-  - rust       (plataformaIO, firebase)
+  - Rust       (plataformaIO, firebase)
     
 
 Tenho interesse nas seguintes áreas:
   - Segurança de dados;
-  - aplicação web;
-  - aplciaco mobile;
-  - Programação;
+  - Aplicações web;
+  - Aplicações mobile;
   - Análise de dados;
   - Hardawre ou dev de sistemas embarcados.
